@@ -8,7 +8,17 @@ This project's goal is creating keyconfig.py which behaves like Unity. Pull requ
 2. Navigate to File->User Preferences->Input->Import Key Configuration...
 3. Open downloaded keyconfig.py file.
 
-In User Preferences->Input tab, `Select with: Left` is recommended.
+## Prefered additional configs
+
+In User Preferences->Input tab:
+
+* Select `Select with:` to **Left**
+* Set `Zoom Style:` to **Dolly**
+* Check on **Invert Mouse Zoom Direction**
+* Set `View Navigation:` to **Walk**
+* Set `Walk Speed:` to **5** (default 2.5 is too slow. If you want more speed, set to greater value)
+
+And **don't forget to press `Save User Settings`.** Otherwise you lose unsaved settings on closing Blender.
 
 ## Modified controls
 
